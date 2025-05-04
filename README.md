@@ -69,22 +69,22 @@ docker build -t bankfx
 docker run -it bankfx
 
 ### Roadmap
- Basic JavaFX login and registration
+- Basic JavaFX login and registration
 
- User CRUD operations
+- User CRUD operations
 
- Live stock and currency data
+- Live stock and currency data
 
- Docker support
+- Docker support
 
- GitHub Actions pipeline
+- GitHub Actions pipeline
 
- Security tools integration
+- Security tools integration
 
- Kubernetes deployment (future)
+- Kubernetes deployment (future)
 
- Terraform provisioning for cloud infra (future)
+- Terraform provisioning for cloud infra (future)
 
-
+#
  Created with passion for DevOps + Cybersecurity.
 If you like this project, give it a star and share it!
